@@ -3,9 +3,9 @@ I am an electronic engineer and a PCB designer.<br>I like tinkering with new har
 
 
 ## 🌐 Socials:
-linkdin  : https://www.linkedin.com/in/haythemltifi/
-Facabook : https://www.facebook.com/profile.php?id=100089972696791
-Discord  : Electrical Engineer Man#0746
+#linkdin  : https://www.linkedin.com/in/haythemltifi/
+#Facabook : https://www.facebook.com/profile.php?id=100089972696791
+#Discord  : Electrical Engineer Man#0746
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 # 📊 GitHub Stats:
