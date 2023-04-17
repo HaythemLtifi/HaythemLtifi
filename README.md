@@ -3,8 +3,9 @@ I am an electronic engineer and a PCB designer.<br>I like tinkering with new har
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Electrical Engineer Man#0746) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Ltifi Haythem) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Haythem Ltifi) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@TN Inventor) 
-
+linkdin  : https://www.linkedin.com/in/haythemltifi/
+Facabook : https://www.facebook.com/profile.php?id=100089972696791
+Discord  : Electrical Engineer Man#0746
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 # 📊 GitHub Stats:
