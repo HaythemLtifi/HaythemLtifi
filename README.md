@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am an electronic engineer and a PCB designer.<br>I like tinkering with new hardware , and understand how it works .<br>Add me on LinkedIn : https://www.linkedin.com/in/haythemltifi/
+I am an electronic engineer and a PCB designer.<br>I like tinkering with new hardware , and understanding how it works .<br>Add me on LinkedIn : https://www.linkedin.com/in/haythemltifi/
 
 
 ## 🌐 Socials:
